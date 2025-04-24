@@ -1,0 +1,30 @@
+Garen Ezikoğlu
+  2025:
+    Ocak: ödendi
+    Şubat: ödendi
+    Mart: ödenmedi
+    Nisan: ödenmedi
+    Mayıs: ödenmedi
+    Haziran: ödenmedi
+    Temmuz: ödenmedi
+    Ağustos: ödenmedi
+    Eylül: ödenmedi
+    Ekim: ödenmedi
+    Kasım: ödenmedi
+    Aralık: ödenmedi
+
+Kayra
+  2025:
+    Ocak: ödenmedi
+    Şubat: ödenmedi
+    Mart: ödendi
+    Nisan: ödenmedi
+    Mayıs: ödenmedi
+    Haziran: ödenmedi
+    Temmuz: ödenmedi
+    Ağustos: ödenmedi
+    Eylül: ödenmedi
+    Ekim: ödenmedi
+    Kasım: ödenmedi
+    Aralık: ödenmedi
+
